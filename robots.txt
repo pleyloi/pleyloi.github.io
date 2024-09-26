@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pleyloi.github.io/sitemap.pleyloi.gz
+Sitemap: https://pleyloi.github.io/app/sitemap.pleyloi.gz
+Sitemap: https://pleyloi.github.io/assets/sitemap.pleyloi.gz
+Sitemap: https://pleyloi.github.io/css/sitemap.pleyloi.gz
+Sitemap: https://pleyloi.github.io/data/sitemap.pleyloi.gz
+Sitemap: https://pleyloi.github.io/includes/sitemap.pleyloi.gz
+Sitemap: https://pleyloi.github.io/item/sitemap.pleyloi.gz
+Sitemap: https://pleyloi.github.io/src/sitemap.pleyloi.gz
